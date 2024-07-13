@@ -8,3 +8,7 @@ Including:
 - MLPs
 - CNNs
 - Data Augmentation
+
+Also old notebooks:
+- RNNs
+- Models on CIFAR 10 dataset
